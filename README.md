@@ -24,34 +24,34 @@
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/kakabab12/LAB-1309"><img src="assets/thumbs/vla_research.png" width="250" alt="말로 시키는 로봇팔 AI 연구"></a><br>
+<a href="https://github.com/kakabab12/LAB-1309"><img src="assets/thumbs/vla_research.png" width="100%" alt="말로 시키는 로봇팔 AI 연구"></a><br>
 <b><a href="https://github.com/kakabab12/LAB-1309">말로 시키는 로봇팔 AI 연구</a></b><br>
 <sub>일하는 도중 새 명령에도 이어서 · SmolVLA<br><code>2026 학부연구생</code></sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/07.%20학부연구생%20-%20웹캠%20PiPER%20원격조종"><img src="assets/thumbs/piper_webcam.png" width="250" alt="웹캠으로 실물 로봇팔 원격조종"></a><br>
+<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/07.%20학부연구생%20-%20웹캠%20PiPER%20원격조종"><img src="assets/thumbs/piper_webcam.png" width="100%" alt="웹캠으로 실물 로봇팔 원격조종"></a><br>
 <b><a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/07.%20학부연구생%20-%20웹캠%20PiPER%20원격조종">웹캠으로 실물 로봇팔 원격조종</a></b><br>
 <sub>손을 재서 연구실 PiPER 가 따라 집음<br><code>2026 학부연구생</code></sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/01.%20광명테크%20인턴%20-%20배리어프리%20키오스크"><img src="assets/thumbs/kiosk.gif" width="250" alt="배리어프리 키오스크 입력 장치"></a><br>
+<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/01.%20광명테크%20인턴%20-%20배리어프리%20키오스크"><img src="assets/thumbs/kiosk.gif" width="100%" alt="배리어프리 키오스크 입력 장치"></a><br>
 <b><a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/01.%20광명테크%20인턴%20-%20배리어프리%20키오스크">배리어프리 키오스크 입력 장치</a></b><br>
 <sub>고개로 커서를 옮기고 입을 벌려 클릭<br><code>2026 기업 인턴</code></sub>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/02.%20SW파일럿%20-%20TurtleBot3%20자율주행%20로봇"><img src="assets/thumbs/turtlebot3.png" width="250" alt="TurtleBot3 자율주행 로봇"></a><br>
+<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/02.%20SW파일럿%20-%20TurtleBot3%20자율주행%20로봇"><img src="assets/thumbs/turtlebot3.png" width="100%" alt="TurtleBot3 자율주행 로봇"></a><br>
 <b><a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/02.%20SW파일럿%20-%20TurtleBot3%20자율주행%20로봇">TurtleBot3 자율주행 로봇</a></b><br>
 <sub>SLAM 지도 위 순찰 · ROS 2<br><code>2026 팀 프로젝트</code></sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/03.%20캡스톤%20-%20스마트팩토리%20비전검사"><img src="assets/thumbs/factory.png" width="250" alt="스마트팩토리 비전 검사"></a><br>
+<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/03.%20캡스톤%20-%20스마트팩토리%20비전검사"><img src="assets/thumbs/factory.png" width="100%" alt="스마트팩토리 비전 검사"></a><br>
 <b><a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/03.%20캡스톤%20-%20스마트팩토리%20비전검사">스마트팩토리 비전 검사</a></b><br>
 <sub>카메라 2대 병렬 추론 → 로봇팔<br><code>2026 캡스톤</code></sub>
 </td>
 <td align="center" valign="top" width="33%">
-<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/04.%20메디컬%20머신러닝%20대회"><img src="assets/thumbs/medical.png" width="250" alt="수술 위험도 예측 AI"></a><br>
+<a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/04.%20메디컬%20머신러닝%20대회"><img src="assets/thumbs/medical.png" width="100%" alt="수술 위험도 예측 AI"></a><br>
 <b><a href="https://github.com/kakabab12/My_portfolio/tree/main/2026/04.%20메디컬%20머신러닝%20대회">수술 위험도 예측 AI</a></b><br>
 <sub>ICU 위험·수술시간 예측과 근거 설명<br><code>2026 대회</code></sub>
 </td>
